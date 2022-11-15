@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="menu_button">Menu button</string>
+    <string name="sensors_count">Count of sensors: %d</string>
+    <string name="example_sensor_name">Example sensor name</string>
+    <string name="example_sensor_value">Example sensor value</string>
+    <string name="missing_sensor">There is no sensor</string>
+    <string name="light_sensor_label">Light sensor %f</string>
+    <string name="temperature_sensor_label">Temperature sensor %f</string>
+    <string name="last_localization">Tap to get last localization</string>
+    <string name="location_permission_denied">Localization access denied</string>
+    <string name="location_text">Latitude: %1$.4f   Longitude: %2$.4f   Czas: %3$tr</string>
+    <string name="address_text">Address: %1$s   Time: %2$tr</string>
+    <string name="no_location">"No location "</string>
+    <string name="service_not_abailable">"Service unavailable "</string>
+    <string name="no_address_found">"Address not found "</string>
+</resources>
